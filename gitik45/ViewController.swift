@@ -20,6 +20,18 @@ class ViewController: UIViewController {
 //        code
 //
 //        code...
+        
+        
+//        Code 2
+//        
+//        code
+//        code
+//        
+//        
+//        code
+//        code...
+//        
+        
     }
 
 
