@@ -8,35 +8,47 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        Code 1
-//
-//        code
-//        code
-//
-//        code
-//
-//        code...
+        //        Code 1
+        //
+        //        code
+        //        code
+        //
+        //        code
+        //
+        //        code...
         
         
-//        Code 2 new
-//
-//        codenew
-//        codenew
-//
-//
-//        codenew
-//        code...new
-//
+        //        Code 2 new
+        //
+        //        codenew
+        //        codenew
+        //
+        //
+        //        codenew
+        //        code...new
+        //
         
         
-//        App Store 1
+        //        App Store 1
+        
+        //Code 3 new
+        //
+        //        code
+        //        code
+        //
+        //
+        //        code
+        //        code...
+        
+        
+        
     }
-
-
+    
+    
     
     
     
